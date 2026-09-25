@@ -1,8 +1,8 @@
 # Prod environment values - bumped by prod-release.yml when a release tag is promoted.
 services:
   api:
-    imageTag: unset
+    imageTag: 0.1.0
   web:
-    imageTag: unset
+    imageTag: 0.1.0
   worker:
-    imageTag: unset
+    imageTag: 0.1.0
