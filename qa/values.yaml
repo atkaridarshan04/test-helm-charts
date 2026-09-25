@@ -1,0 +1,4 @@
+# QA environment values - bumped via PR by qa-release.yml on every release-* push.
+services:
+  api:
+    imageTag: unset

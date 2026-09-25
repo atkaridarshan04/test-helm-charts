@@ -1,0 +1,4 @@
+# Dev environment values - bumped by dev-pipeline.yml on every merge to develop.
+services:
+  api:
+    imageTag: unset
