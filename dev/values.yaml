@@ -1,4 +1,4 @@
 # Dev environment values - bumped by dev-pipeline.yml on every merge to develop.
 services:
   api:
-    imageTag: 346c32592131962b720d2bc25845920583a8e6b6-api
+    imageTag: a5ee3f4c829069945f49f0d9fd6ccf48c36a7cc7-api
